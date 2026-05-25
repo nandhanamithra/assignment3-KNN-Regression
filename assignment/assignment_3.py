@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.neighbors import KNeighborsRegressor
 
 #data read
-data=pd.read_csv(r"C:\flutter_projects\INTERNSHIP\class3\assignment\KNN_Dataset.csv")
+data=pd.read_csv("KNN_Dataset.csv")
 x=data[["Temperature"]]
 y=data[["Fuel_Consumption"]]
 
