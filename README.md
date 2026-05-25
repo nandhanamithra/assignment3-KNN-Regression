@@ -16,7 +16,7 @@ Below,
 
 And, implementation of the same is done using python. The code is saved in the `assignment3-KNN-Regression/assignment/` along with the csv file containing the data and the code.
 
-The code and the output along with graph are given below.
+The code and the output are given below.
 
 ## *Code*
 ![Code](output/code.png)
